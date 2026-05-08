@@ -1,5 +1,9 @@
 # AI-Powered VR Disaster Trainer (WebXR)
 
+# Links
+# Backend: https://ai-powered-vr-disaster-management-trainer.onrender.com
+# Frontend: https://ai-powered-vr-disaster-management-t.vercel.app/ 
+
 ## Overview
 This project is an AI-powered simulation for training disaster response. It uses **WebXR (A-Frame)** for the immersive frontend and **Python (Flask)** for the AI backend.
 
